@@ -18,12 +18,13 @@ This document frames a problem and invites technical correction. It is not a fea
 
 ---
 
-## Key Findings
+## Key Findings (estimated projections)
 
 | Scenario | Estimated 10-Year Export Loss |
 |----------|------------------------------|
 | Moderate disruption | NZ$23.5 – 41.0 billion |
 | Severe disruption | NZ$50.5 – 81.0+ billion |
+
 
 | Plant Phase | Coverage | Estimated Cost (to be confirmed) | Timeline |
 |-------------|----------|--------------------------------|----------|
@@ -52,7 +53,7 @@ This document frames a problem and invites technical correction. It is not a fea
 | **Economic modeller** | GDP and fiscal multiplier validation |
 | **Ministerial official / policy advisor** | Guidance on government process |
 
-**Contact:** [Your email address]
+**Contact:** scott@scottjbarnett.com
 
 ---
 
