@@ -17,6 +17,7 @@ This document frames a problem and invites technical correction. It is not a fea
 **The core question:** Can New Zealand build a domestic green ammonia plant (2-3 year delivery) to reduce nitrogen fertiliser import dependence and protect agricultural export earnings?
 
 ---
+[Read the Full Discussion Document](https://github.com/scottjbarnett/nz-green-ammonia/blob/main/discussion-document.md)
 
 ## Key Findings (estimated projections)
 
@@ -69,6 +70,8 @@ Under these terms:
 - **Attribution** – You must give appropriate credit to the author.
 
 Full license details: https://creativecommons.org/licenses/by/4.0/
+
+[Read the Full Discussion Document](https://github.com/scottjbarnett/nz-green-ammonia/blob/main/discussion-document.md)
 
 ---
 
