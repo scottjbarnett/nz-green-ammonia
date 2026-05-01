@@ -3,27 +3,27 @@
 
 @import "{{ site.theme }}";
 
-/* Widen the whole page */
+/* Use more of the browser width */
 .wrapper {
-  max-width: 1200px;
+  max-width: 1400px;
+  width: 92%;
+  margin: 0 auto;
 }
 
-/* Reduce the left sidebar */
+/* Left intro/sidebar */
 header {
-  width: 22%;
+  width: 20%;
 }
 
-/* Move the document body to the right and give it more room */
+/* Main document area */
 section {
-  width: 72%;
-  margin-left: 28%;
+  width: 76%;
+  margin-left: 24%;
 }
 
-/* Make tables behave better */
+/* Tables */
 table {
   width: 100%;
-  display: table;
-  table-layout: auto;
 }
 
 th, td {
@@ -31,8 +31,12 @@ th, td {
   padding: 10px 12px;
 }
 
-/* Mobile / narrow screen reset */
+/* Mobile / narrow screens */
 @media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+  }
+
   header {
     width: auto;
   }
