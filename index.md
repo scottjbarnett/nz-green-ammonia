@@ -1,3 +1,10 @@
+---
+layout: default
+title: Green Ammonia / Fertiliser Sovereignty
+---
+
+# Green Ammonia / Fertiliser Sovereignty
+
 # Discussion Document: New Zealand's Fertilizer Supply Vulnerability and the Case for Green Ammonia Production
 
 **Document status:** Draft for internal expert review and discussion
