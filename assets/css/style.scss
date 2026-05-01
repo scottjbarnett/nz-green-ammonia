@@ -14,13 +14,3 @@ header {
 section {
   width: 75%;
 }
-
-@media print, screen and (max-width: 960px) {
-  header {
-    width: auto;
-  }
-
-  section {
-    width: auto;
-  }
-}
