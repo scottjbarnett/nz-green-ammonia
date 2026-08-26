@@ -3,13 +3,26 @@ layout: default
 title: Green Ammonia / Fertiliser Sovereignty
 ---
 
+## Note on this discussion document
+
+This discussion document was first published in May 2026 and should be read in that context. A substantial amount of further work has been undertaken since then, while many of the underlying technical and commercial questions still require proper investigation. The document is being retained because it records the starting point of that work rather than because every assumption in it reflects my current view.
+
+In particular, the treatment of electricity supply was necessarily preliminary. Subsequent research has led me to look more closely at the relationship between dedicated renewable generation, storage, plant operation and interaction with New Zealand’s electricity system. Some of the assumptions made in the original document about how a renewable-ammonia facility might be powered should therefore be regarded as illustrative rather than settled. The appropriate configuration would depend heavily on location, plant design, operating strategy and the role that connection to the national grid might play.
+
+The same applies to plant scale and configuration. The scenarios in the original document were intended to make the proposition concrete enough to examine, not to prescribe a particular development model. Further work has broadened the range of possibilities being considered, and I do not regard the specific scales or configurations used in the original discussion as recommendations.
+
+One conclusion I would now qualify is the document’s broad comparison between Chinese and non-Chinese suppliers. The distinction was drawn too categorically. There are clearly capable technology, engineering and project-development organisations in a number of markets. At the same time, it would be short-sighted not to pay close attention to the work currently taking place in China, particularly the scale, pace and increasing integration of renewable hydrogen and ammonia projects being developed there.
+
+The purpose of the document remains what its title suggests: discussion. It was intended to ask whether New Zealand’s long-term nitrogen-fertiliser supply deserves more deliberate examination, and whether renewable ammonia should form part of that examination. I remain interested in hearing from people with relevant technical, commercial, agricultural or policy experience, and I am equally happy to share what I have learned so far. The work is still developing, and informed challenge or correction is welcome. Scott Barnett Aug 2026
+```
+
 # Green Ammonia / Fertiliser Sovereignty
 
 # Discussion Document: New Zealand's Fertilizer Supply Vulnerability and the Case for Green Ammonia Production
 
 **Document status:** Draft for internal expert review and discussion
 
-**Date:** April 2026
+**Date:** April 2026, Forward August 2026
 
 **Author:** Scott Barnett
 
