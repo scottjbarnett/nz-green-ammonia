@@ -13,8 +13,10 @@ The same applies to plant scale and configuration. The scenarios in the original
 
 One conclusion I would now qualify is the document’s broad comparison between Chinese and non-Chinese suppliers. The distinction was drawn too categorically. There are clearly capable technology, engineering and project-development organisations in a number of markets. At the same time, it would be short-sighted not to pay close attention to the work currently taking place in China, particularly the scale, pace and increasing integration of renewable hydrogen and ammonia projects being developed there.
 
-The purpose of the document remains what its title suggests: discussion. It was intended to ask whether New Zealand’s long-term nitrogen-fertiliser supply deserves more deliberate examination, and whether renewable ammonia should form part of that examination. I remain interested in hearing from people with relevant technical, commercial, agricultural or policy experience, and I am equally happy to share what I have learned so far. The work is still developing, and informed challenge or correction is welcome. Scott Barnett Aug 2026
-```
+The purpose of the document remains what its title suggests: discussion. It was intended to ask whether New Zealand’s long-term nitrogen-fertiliser supply deserves more deliberate examination, and whether renewable ammonia should form part of that examination. I remain interested in hearing from people with relevant technical, commercial, agricultural or policy experience, and I am equally happy to share what I have learned so far. The work is still developing, and informed challenge or correction is welcome. 
+
+Scott Barnett, August 2026
+
 
 # Green Ammonia / Fertiliser Sovereignty
 
@@ -22,7 +24,7 @@ The purpose of the document remains what its title suggests: discussion. It was 
 
 **Document status:** Draft for internal expert review and discussion
 
-**Date:** April 2026, Forward August 2026
+**Date:** April 2026 - Foreword August 2026
 
 **Author:** Scott Barnett
 
