@@ -5,7 +5,7 @@ title: Green Ammonia / Fertiliser Sovereignty
 
 ## Note on this discussion document
 
-This discussion document was first published in May 2026 and should be read in that context. A substantial amount of further work has been undertaken since then, while many of the underlying technical and commercial questions still require proper investigation. The document is being retained because it records the starting point of that work rather than because every assumption in it reflects my current view.
+This discussion document was first published in April 2026 and should be read in that context. A substantial amount of further work has been undertaken since then, while many of the underlying technical and commercial questions still require proper investigation. The document is being retained because it records the starting point of that work rather than because every assumption in it reflects my current view.
 
 In particular, the treatment of electricity supply was necessarily preliminary. Subsequent research has led me to look more closely at the relationship between dedicated renewable generation, storage, plant operation and interaction with New Zealand’s electricity system. Some of the assumptions made in the original document about how a renewable-ammonia facility might be powered should therefore be regarded as illustrative rather than settled. The appropriate configuration would depend heavily on location, plant design, operating strategy and the role that connection to the national grid might play.
 
